@@ -1,4 +1,4 @@
-# iFirm Service
+# iFirm App Service
 
 iFirm is a comprehensive solution for managing invoices, reporting, taxation, and payroll. It provides easy-to-use tools designed to assist both businesses and individual users. Visit [our website](https://www.ifirm.kz/) to learn more.
 
